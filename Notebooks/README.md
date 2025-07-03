@@ -8,7 +8,7 @@ It also benchmarks **convergence, runtime, and delta stability** as the number o
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - Implements the Black-Scholes pricing formula for European call options
 - Implements a binomial tree pricer with dynamic CRR calibration:
@@ -26,7 +26,7 @@ It also benchmarks **convergence, runtime, and delta stability** as the number o
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 - `numpy`
 - `scipy`
